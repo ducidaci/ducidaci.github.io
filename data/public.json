@@ -1,0 +1,198 @@
+{
+	"about": {
+		"desc": [
+			"Param1",
+			"Param2",
+			"Param3"
+		],
+		"resume": "/assets/resume/resume.pdf",
+		"additions": []
+	},
+	"contact": {
+		"name": "Qiao Wang",
+		"fullname": "Qiao Wang",
+		"desc": [
+			"Qiao Wang's Personal Website"
+		],
+		"email": "qiaowanggo@gmail.com",
+		"phone": "+1(415) 699 6393"
+	},
+	"game": {
+		"desc": [
+			"The Intro"
+		],
+		"lists": [
+			{
+				"name": "Empty Bottle",
+				"path": "../../assets/game/empty_bottle/",
+				"desc": [
+					"Empty Bottle is an odd adventure game in which all the characters are bottles that contain different colored fluids. Different colored fluids represent different emotions. Your character will go through all type of emotions and meet his destiny. ",
+					"I have done all game/level design and programming work for this game."
+				],
+				"about": [
+					"Game/Level Design, Programming, FX",
+					"Deveoped by: Unreal Engine 4, FLStudio",
+					"2017 Academy of Art University, NXT UP Fest, Achievement in Game Design 1st place",
+					"2017 Academy of Art University, Spring Show, 2st Place"
+				],
+				"screenshots": [
+					"EmptyBottle01.png",
+					"EmptyBottle02.png",
+					"EmptyBottle03.png"
+				],
+				"docs": [
+					"DesignDoc_EmptyBottle.pdf"
+				],
+				"video": "https://www.youtube.com/embed/i-5iqC16kSw?ecver=1",
+				"download": "EmptyBottle.rar"
+			},
+			{
+				"name": "False Self",
+				"path": "../../assets/game/false_self/",
+				"desc": [
+					"False Self is an platform game about a lady robot`s adventure in a dark under world.",
+					"False Self is my individual project and it's inspired by human being's abnormal mental condition. I have done all game/level design, art, programming, audio as well as fx work for this game."
+				],
+				"about": [
+					"Game/Level Design, 2D art, Programming, sound design, composing, FX",
+					"Deveoped by: Unreal Engine 4, FLStudio, Photoshop",
+					"2016 Featured at GDC",
+					"2016 Academy of Art University, NXT UP Fest, Achievement in Game Design, nominated",
+					"2016 Academy of Art University, Spring Show, nominated"
+				],
+				"screenshots": [
+					"FalseSelf01.png",
+					"FalseSelf02.png",
+					"FalseSelf03.png"
+				],
+				"video": "https://www.youtube.com/embed/NCdjGsEra2M?ecver=1",
+				"download": "FalseSelf.rar"
+			},
+			{
+				"name": "Pain Train",
+				"path": "../../assets/game/pain_train/",
+				"desc": [
+					"Pain train is an anti-tower defend game which player need to help a train and all its passengers escape from a land full of evil monsters.",
+					"My role in this game is game design, level design and programming. This is a prototype game which is completed in eight weeks."
+				],
+				"role": "Game/Level Design, Programming",
+				"software": "Unreal Engine 4",
+				"about": [
+					"Game/Level Design, Programming",
+					"Deveoped by: Unreal Engine 4"
+				],
+				"screenshots": [
+					"PainTrain01.png",
+					"PainTrain02.png",
+					"PainTrain03.png"
+				],
+				"docs": [
+					"DesignDoc_PainTrain.pdf"
+				],
+				"video": "https://www.youtube.com/embed/5nHkRIzLK5E?ecver=1",
+				"download": "gamefile"
+			},
+			{
+				"name": "One Year Ago",
+				"path": "../../assets/game/one_year_ago/",
+				"desc": [
+					"One year ago is a walking simulator which player plays a role as a scientist who lost all her memory and tried to find out the murderer of her husband.",
+					"My role in this game is game design, level design and programming. This is a rapid game development work which is completed in 2 weeks. "
+				],
+				"software": "Unreal Engine 4",
+				"role": "Game/Level Design, Programming",
+				"about": [
+					"Game/Level Design, Programming",
+					"Deveoped by: Unreal Engine 4"
+				],
+				"screenshots": [
+					"OneYearAgo01.png",
+					"OneYearAgo02.png",
+					"OneYearAgo03.png"
+				],
+				"video": "https://www.youtube.com/embed/fIRiVonnstQ?ecver=1",
+				"download": "gamefile"
+			},
+			{
+				"name": "Super Skittles Trolley",
+				"path": "../../assets/game/super_skittles/",
+				"desc": [
+					"Super Skittles Trolley is a top down view point and click game with sweet concept. Candies fall from sky and player needs to use a trolley to catch them and use them to feed hungry stomach.",
+					"My role in this game is game design, level design and programming. This is a rapid game development work which is completed in 2 weeks. "
+				],
+				"about": [
+					"Game/Level Design, Programming",
+					"Deveoped by: Unreal Engine 4"
+				],
+				"software": "Unreal Engine 4",
+				"role": "Game/Level Design, Programming",
+				"screenshots": [
+					"SuperSkittlesTrolley01.png"
+				],
+				"video": "https://www.youtube.com/embed/m5MDOfhD6N0?ecver=1",
+				"download": "gamefile"
+			}
+		]
+	},
+	"level": {
+		"desc": [
+			"level intro"
+		],
+		"lists": [
+			{
+				"name": "Don`t",
+				"path": "../../assets/level/l1/",
+				"desc": [
+					"Don`t is a first person puzzle level in which player must solve puzzles by obey the rules in a logic world."
+				],
+				"screenshots": [
+					"Don`t_SideViewMap.jpg",
+					"Don`t_TopDownMap&Progress.jpg"
+				],
+				"docs": [],
+				"video": "https://www.youtube.com/embed/c_OOqu-0dqw?ecver=1"
+			},
+			{
+				"name": "Boxes",
+				"path": "../../assets/level/l2/",
+				"desc": [
+					"Boxes is a ARPG level in which a passenger get a quest of finding a little girl`s parents in a wild village."
+				],
+				"screenshots": [
+					"Boxes_Sidemap.jpg",
+					"Boxes_TopDownView.jpg"
+				],
+				"docs": [
+					"WalkThrough_Boxes.pdf"
+				],
+				"video": "https://www.youtube.com/embed/ypeYQU6L6vY?ecver=1"
+			},
+			{
+				"name": "Suction",
+				"path": "../../assets/level/l3/",
+				"desc": [
+					"Suction is a parkour level in which player are trapped in a subway station by enemies. Player must use parkour skills: wall runnning, wall jumping and climbing to navigate and exit the station."
+				],
+				"screenshots": [
+					"SuctionSideViewMap.png",
+					"SuctionTopdownViewMap.png"
+				],
+				"docs": [
+					"Suction_WalkThrough.pdf"
+				],
+				"video": "https://www.youtube.com/embed/HZBBd4gzubs?ecver=1"
+			},
+			{
+				"name": "Slaughterhouse_42",
+				"path": "../../assets/level/l4/",
+				"desc": [
+					"Slaughterhouse_42 is a first person shooter level which is created for Unreal Tournament."
+				],
+				"screenshots": [
+					"SlaughterHouse_42.jpg"
+				],
+				"video": "https://www.youtube.com/embed/taFlGmmIwmg?ecver=1"
+			}
+		]
+	}
+}

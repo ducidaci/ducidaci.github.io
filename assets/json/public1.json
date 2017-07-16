@@ -1,0 +1,131 @@
+{
+	"about": {
+		"desc": [
+			"Param1",
+			"Param2",
+			"Param3"
+		],
+		"resume": "/assets/pdf/resume.pdf",
+		"additions": [
+
+		]
+	},
+	"contact": {
+		"name": "Qiao Wang",
+		"fullname": "Qiao Wang",
+		"desc": [
+			"Qiao Wang's Personal Website"
+		],
+		"email": "qiaowanggo@gmail.com",
+		"phone": "+1(415) 699 6393"
+	},
+	"game":{
+		"desc": [
+			"The Intro"
+		],
+		"lists": [
+			{
+				"name": "Empty Bottle",
+				"path": "../../assets/game/empty_bottle/",
+				"desc": [
+					"Empty Bottle is an odd adventure game in which all the characters are bottles that contain different colored fluids. Different colored fluids represent different emotions. Your character will go through all type of emotions and meet his destiny. " , 
+					"I have done all game/level design and programming work for this game."
+				],
+				"award":["2017 Academy of Art University, NXT UP Fest, Achievement in Game Design 1st place",
+				"2017 Academy of Art University, Spring Show, 2st Place"
+				],
+				"role":"Game/Level Design, Programming, fx",
+				"software":"Unreal Engine 4",
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "https://www.youtube.com/watch?v=i-5iqC16kSw&t=5s",
+				"download": "gamefile"
+			},
+			{
+				"name": "False Self",
+				"path": "../../assets/game/false_self/",
+				"desc": [
+					"False Self is an platform game about a lady robot`s adventure in a dark under world.",
+					"False Self is my individual project and it's inspired by human being's abnormal mental condition. I have done all game/level design, art, programming, audio as well as fx work for this game."
+				],
+				"award":["2016 Featured at GDC",
+				"2016 Academy of Art University, NXT UP Fest, Achievement in Game Design, nominated",
+				"2016 Academy of Art University, Spring Show, nominated"
+				],
+				"role":"Game/Level Design, 2D art, Programming, sound design, composing, fx",
+				"screenshots":[
+					"meal1.png"
+					],
+				"video": "https://www.youtube.com/watch?v=NCdjGsEra2M",
+				"download": "FalseSelf.rar"
+			},
+			{
+				"name": "Pain Train",
+				"path": "../../assets/game/pain_train/",
+				"desc": [
+					"Pain train is an anti-tower defend game which player need to help a train and all its passengers escape from a land full of evil monsters.",
+					"My role in this game is game design, level design and programming. This is a prototype game which is completed in eight weeks."
+				],
+				"role":"Game/Level Design, Programming",
+				"award":[
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "https://www.youtube.com/watch?v=5nHkRIzLK5E&feature=youtu.be",
+				"download": "gamefile"
+			},
+			{
+				"name": "One Year Ago",
+				"path": "../../assets/game/one_year_ago/",
+				"desc": [
+					"One year ago is a walking simulator which player plays a role as a scientist who lost all her memory and tried to find out the murderer of her husband.",
+					"My role in this game is game design, level design and programming. This is a rapid game development work which is completed in 2 weeks. "
+				],
+				"role":"Game/Level Design, Programming",
+				"award":[
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "https://www.youtube.com/watch?v=fIRiVonnstQ",
+				"download": "gamefile"
+			},
+			{
+				"name": "Super Skittles Trolley",
+				"path": "../../assets/game/super_skittles/",
+				"desc": [
+					"Super Skittles Trolley is a top down view point and click game with sweet concept. Candies fall from sky and player needs to use a trolley to catch them and use them to feed hungry stomach.",
+					"My role in this game is game design, level design and programming. This is a rapid game development work which is completed in 2 weeks. "
+				],
+				"award":[
+				],
+				"role":"Game/Level Design, Programming",
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "https://www.youtube.com/watch?v=m5MDOfhD6N0",
+				"download": "gamefile"
+			}
+		]
+	},
+	"level":{
+		"desc": [
+			"level intro"
+		],
+		"lists": [
+			{
+				"name": "l1",
+				"path": "l1",
+				"desc": [
+					"l1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url"
+			}
+		]
+	}
+}

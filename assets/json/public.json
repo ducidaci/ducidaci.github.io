@@ -1,0 +1,93 @@
+{
+	"about": {
+		"desc": [
+			"Param1",
+			"Param2",
+			"Param3"
+		],
+		"resume": "/assets/resume/resume.pdf",
+		"additions": [
+
+		]
+	},
+	"contact": {
+		"name": "Qiao Wang",
+		"fullname": "Qiao Wang",
+		"desc": [
+			"Qiao Wang's Personal Website"
+		],
+		"email": "qiaowanggo@gmail.com",
+		"phone": "+1(415) 699 6393"
+	},
+	"game":{
+		"desc": [
+			"The Intro"
+		],
+		"lists": [
+			{
+				"name": "g1",
+				"path": "g1",
+				"desc": [
+					"g1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url",
+				"download": "gamefile"
+			},
+			{
+				"name": "g1",
+				"path": "g1",
+				"desc": [
+					"g1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url",
+				"download": "gamefile"
+			}
+		]
+	},
+	"level":{
+		"desc": [
+			"level intro"
+		],
+		"lists": [
+			{
+				"name": "l1",
+				"path": "l1",
+				"desc": [
+					"l1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url"
+			},
+			{
+				"name": "l1",
+				"path": "l1",
+				"desc": [
+					"l1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url"
+			},
+			{
+				"name": "l1",
+				"path": "l1",
+				"desc": [
+					"l1 intro"
+				],
+				"screenshots":[
+					"meal1.png"
+				],
+				"video": "url"
+			}
+		]
+	}
+}
